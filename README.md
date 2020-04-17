@@ -1,4 +1,4 @@
-# Web App for Starsona
+# Web App for Star-sona
 
 ## System Requirements
 1. node.js - download and install latest node js (version 8+) from https://nodejs.org/en/
@@ -6,10 +6,6 @@
 
 ## Getting Started
 ```
-Open command prompt and use the following commands step by step to run the project in local machine
-
-# Clone the github repository of the project
-git clone git@github.com:Starsona/web.git
 
 # Navigate to repository
 cd web
